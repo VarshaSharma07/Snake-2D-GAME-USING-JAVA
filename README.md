@@ -10,6 +10,10 @@ As the game progresses, the snake moves continuously in the direction specified 
 JAVA, AWT, JAVA SWING
 
 # Project Snaps:
+![s1 (2)](https://github.com/VarshaSharma07/Snake-2D-GAME-USING-JAVA/assets/121331657/eb64fd9e-aa63-4a9c-852e-a3175e9c5b79)
+![snake](https://github.com/VarshaSharma07/Snake-2D-GAME-USING-JAVA/assets/121331657/67996679-9102-4cf0-b555-b9a00b8ac87b)
+![gameover](https://github.com/VarshaSharma07/Snake-2D-GAME-USING-JAVA/assets/121331657/1363f55f-835c-413a-af3e-00620f5643e7)
+
 
 
 
